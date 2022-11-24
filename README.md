@@ -2,5 +2,5 @@
 
 | Challenge                                                                                                                     | Solution                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
-| [Compare the Triplets](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/?isFullScreen=true)                  | [CompareTheTriplets.js](./solutions-of-algorithms/CompareTheTriplets.js)              |
+| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/?isFullScreen=true)                  | [subtractProductAndSum.java](./solutions/subtractProductAndSum.java)              |
 
