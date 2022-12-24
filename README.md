@@ -9,5 +9,6 @@
 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/?isFullScreen=true)                                                                         | [integerReplacement.java](./solutions/integerReplacement.java)       |
 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/?isFullScreen=true)                                                         | [isStrictlyPalindromic.js](./solutions/isStrictlyPalindromic.js)     |
 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/?isFullScreen=true)                                                                   | [judgeCircle.js](./solutions/judgeCircle.js)                         |
+| [Two Sum](https://leetcode.com/problems/two-sum/?isFullScreen=true)                                                                                                 | [twoSum.js](./solutions/twoSum.js)                                   |
 
 
