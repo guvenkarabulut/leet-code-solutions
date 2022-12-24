@@ -1,14 +1,15 @@
 # leet-code-solutions
 
-| Challenge                                                                                                                                                           | Solution                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/?isFullScreen=true)       | [subtractProductAndSum.java](./solutions/subtractProductAndSum.java) |
-| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?isFullScreen=true)                                                                               | [hammingWeight.java](./solutions/hammingWeight.java)                 |
-| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?isFullScreen=true) | [average.java](./solutions/average.java)                             |
-| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/number-of-1-bits/?isFullScreen=true)                                                         | [countOdds.java](./solutions/countOdds.java)                         |
-| [Integer Replacement](https://leetcode.com/problems/integer-replacement/?isFullScreen=true)                                                                         | [integerReplacement.java](./solutions/integerReplacement.java)       |
-| [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/?isFullScreen=true)                                                         | [isStrictlyPalindromic.js](./solutions/isStrictlyPalindromic.js)     |
-| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/?isFullScreen=true)                                                                   | [judgeCircle.js](./solutions/judgeCircle.js)                         |
-| [Two Sum](https://leetcode.com/problems/two-sum/?isFullScreen=true)                                                                                                 | [twoSum.js](./solutions/twoSum.js)                                   |
-
-
+| Challenge                                                                                                                                                           | Solution                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/?isFullScreen=true)       | [subtractProductAndSum.java](./solutions/subtractProductAndSum.java)   |
+| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?isFullScreen=true)                                                                               | [hammingWeight.java](./solutions/hammingWeight.java)                   |
+| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/?isFullScreen=true) | [average.java](./solutions/average.java)                               |
+| [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/number-of-1-bits/?isFullScreen=true)                                                         | [countOdds.java](./solutions/countOdds.java)                           |
+| [Integer Replacement](https://leetcode.com/problems/integer-replacement/?isFullScreen=true)                                                                         | [integerReplacement.java](./solutions/integerReplacement.java)         |
+| [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/?isFullScreen=true)                                                         | [isStrictlyPalindromic.js](./solutions/isStrictlyPalindromic.js)       |
+| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/?isFullScreen=true)                                                                   | [judgeCircle.js](./solutions/judgeCircle.js)                           |
+| [Two Sum](https://leetcode.com/problems/two-sum/?isFullScreen=true)                                                                                                 | [twoSum.js](./solutions/twoSum.js)                                     |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?isFullScreen=true)                   | [lengthOfLongestSubstring.js](./solutions/lengthOfLongestSubstring.js) |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?isFullScreen=true)                                                         | [findMedianSortedArrays.js](./solutions/findMedianSortedArrays.js)     |
+| [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?isFullScreen=true)                                                    | [longestPalindrome.js](./solutions/longestPalindrome.js)               |
