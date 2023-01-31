@@ -11,7 +11,7 @@
  * @return {ListNode}
  */
 var removeNthFromEnd = function (head, n) {
-    if(head === null) return null
+    if (head === null) return null
     let count = 0
     let dummy = new ListNode()
     dummy.next = head
